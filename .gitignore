@@ -1,0 +1,7 @@
+/MDK/Listings
+/MDK/DebugConfig
+/MDK/Objects
+/.vscode/settings.json
+*.scvd
+JLinkSettings.ini
+*.uvguix.10374

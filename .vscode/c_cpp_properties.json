@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/Libraries/STM32F10x_StdPeriph_Driver/inc",
+                "${workspaceFolder}/Application/inc",
+                "${workspaceFolder}/Libraries/CMSIS"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "USE_STDPERIPH_DRIVER"
+            ],
+            "compilerPath": "C:\\APP\\Qt\\Qt5.11.2\\Tools\\mingw530_32\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
